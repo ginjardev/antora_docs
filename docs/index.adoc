@@ -7,7 +7,7 @@ Let's see how it goes.
 === Some Syntax
 [.underline]#underline me#
 
-[.line_through]#strike through text
+[.line_through]#strike through text#
 
 [,bash]
 ----

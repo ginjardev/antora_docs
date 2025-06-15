@@ -1,5 +1,5 @@
-name: build
-title: Antora Test Docs
+name: test-docs
+title: Docs Site Test
 version: '1.0'
   #nav:
   #- modules/ROOT/nav.adoc

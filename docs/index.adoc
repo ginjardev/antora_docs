@@ -5,9 +5,10 @@ Making a doc site on this test repository.
 Let's see how it goes.
 
 === Some Syntax
+
 [.underline]#underline me#
 
-[.line-through]#strike through text#
+[.line-through]#strike through me#
 
 [,bash]
 ----
@@ -15,3 +16,7 @@ sudo apt update
 ----
 
 https://github.com/ginjardev/antora_docs[repo link]
+
+[.underline]#underline me#
+
+[.line-through]#strike through me#

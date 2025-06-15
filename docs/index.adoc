@@ -1,0 +1,16 @@
+= This is an intro to Antora
+making a doc site on this test repository.
+
+== Curious
+Let's see how it goes.
+
+=== Some Syntax
+[.underline]#underline me
+[.line_through]#strike through text
+
+[,bash]
+----
+sudo apt update
+----
+
+https://github.com/ginjardev/antora_docs[repo link]

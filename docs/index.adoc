@@ -1,13 +1,14 @@
 = This is an intro to Antora
-making a doc site on this test repository.
+Making a doc site on this test repository.
 
 == Curious
 Let's see how it goes.
 
 === Some Syntax
-[.underline]#underline me
 
-[.line_through]#strike through text
+[.underline]#underline me#
+
+[.line-through]#strike through me#
 
 [,bash]
 ----
